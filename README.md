@@ -6,7 +6,7 @@ Open every single DM you've ever talked in.
 
 # How do i use it?
 - First, you'll need your data package. You can get this by going to Settings > Privacy & Safety and clicking the Request Data button at the bottom.
-<img src="https://media.wtf/39039030"/>
+<img src="https://media.wtf/33689305"/>
 
 # I have my data package, now what?
 - Once you have your data package, extract it and make sure you have the messages folder inside.
