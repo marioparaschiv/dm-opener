@@ -1,4 +1,4 @@
-# DM Opener [![CodeFactor](https://www.codefactor.io/repository/github/slow/open-all-dms/badge)](https://www.codefactor.io/repository/github/slow/open-all-dms) [![GitHub issues](https://img.shields.io/github/issues/slow/open-all-dms?style=flat)](https://github.com/slow/open-all-dms/issues) [![GitHub stars](https://img.shields.io/github/stars/slow/open-all-dms?style=flat)](https://github.com/slow/open-all-dms/stargazers) [![Support](https://img.shields.io/discord/887015827134632057)](https://discord.gg/HQ5N7Rcajc)
+# DM Opener [![CodeFactor](https://www.codefactor.io/repository/github/localip/open-all-dms/badge)](https://www.codefactor.io/repository/github/localip/open-all-dms) [![GitHub issues](https://img.shields.io/github/issues/localip/open-all-dms?style=flat)](https://github.com/localip/open-all-dms/issues) [![GitHub stars](https://img.shields.io/github/stars/localip/open-all-dms?style=flat)](https://github.com/localip/open-all-dms/stargazers) [![Support](https://img.shields.io/discord/887015827134632057)](https://discord.gg/HQ5N7Rcajc)
 Open every single DM you've ever talked in.
 
 # Requirements
