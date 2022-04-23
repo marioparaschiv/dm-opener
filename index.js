@@ -1,8 +1,9 @@
-const { readDirSync, readFileSync } = require('fs');
-const config = require('./config.json');
-const fetch = require('node-fetch');
+import config from './config.json' assert { type: 'json' };
 
-const files = readDirSync(process.argv[2]);
+import { readdirSync, readFileSync } from 'fs';
+import fetch from 'node-fetch';
+
+const files = readdirSync(process.argv[2]);
 for (const file of files) {
    if (file === 'index.json') continue;
 
@@ -14,7 +15,7 @@ for (const file of files) {
       if (recipients.length) {
          const res = await fetch('https://canary.discordapp.com/api/v6/users/@me/channels', {
             method: 'POST',
-            body: JSON.stringify(body),
+            body: JSON.stringify({ recipients }),
             headers: {
                'authorization': config.token,
                'User-Agent': config.agent,
