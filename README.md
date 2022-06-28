@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  Small script to extract private message channels from a @discord data package & open them on a certain account.
+  Small script to extract private message channels from a discord data package & open them on a certain account.
 </div>
 
 ---
