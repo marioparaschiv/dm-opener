@@ -1,14 +1,35 @@
-# DM Opener [![CodeFactor](https://www.codefactor.io/repository/github/localip/open-all-dms/badge)](https://www.codefactor.io/repository/github/localip/open-all-dms) [![GitHub issues](https://img.shields.io/github/issues/localip/open-all-dms?style=flat)](https://github.com/localip/open-all-dms/issues) [![GitHub stars](https://img.shields.io/github/stars/localip/open-all-dms?style=flat)](https://github.com/localip/open-all-dms/stargazers) [![Support](https://img.shields.io/discord/887015827134632057)](https://discord.gg/HQ5N7Rcajc)
-Open every single DM you've ever talked in.
+<div align="center">
+  <h3>DM Opener</h3>
+  <a href="https://www.codefactor.io/repository/github/localip/open-all-dms">
+    <img src="https://www.codefactor.io/repository/github/localip/open-all-dms/badge" />
+  </a>
+  <a href="https://github.com/localip/open-all-dms/issues">
+    <img src="https://img.shields.io/github/issues/localip/open-all-dms?style=flat" />
+  </a>
+  <a href="https://github.com/localip/open-all-dms/stargazers">
+    <img src="https://img.shields.io/github/stars/localip/open-all-dms?style=flat" />
+  </a>
+  <a href="https://discord.gg/HQ5N7Rcajc">
+    <img src="https://img.shields.io/discord/887015827134632057" />
+  </a>
+</div>
 
-# Requirements
+---
+
+<div align="center">
+  Small script to extract private message channels from a @discord data package & open them on a certain account.
+</div>
+
+---
+
+### Requirements
 - Node (https://nodejs.org/en/)
 
-# How do i use it?
+### How do i use it?
 - First, you'll need your data package. You can get this by going to Settings > Privacy & Safety and clicking the Request Data button at the bottom.
-<img src="https://media.wtf/33689305"/>
+<br />![image](https://user-images.githubusercontent.com/98427312/176322082-57a3d3c3-7034-483e-ac21-baee2b7f3777.png)
 
-# I have my data package, now what?
+### I have my data package, now what?
 - Once you have your data package, extract it and make sure you have the messages folder inside.
 - Open a Command Prompt/Terminal in this projects directory.
 - Run `npm install` and wait for it to finish.
