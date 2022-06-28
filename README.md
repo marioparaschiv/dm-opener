@@ -22,14 +22,12 @@
 
 ---
 
-### Requirements
-- Node (https://nodejs.org/en/)
-
 ### How do i use it?
-- First, you'll need your data package. You can get this by going to Settings > Privacy & Safety and clicking the Request Data button at the bottom.
-<br />![image](https://user-images.githubusercontent.com/98427312/176322082-57a3d3c3-7034-483e-ac21-baee2b7f3777.png)
+First, you'll need your data package. You can get this by going to Settings > Privacy & Safety and clicking the Request Data button at the bottom.
+<br /><br />![image](https://user-images.githubusercontent.com/98427312/176322082-57a3d3c3-7034-483e-ac21-baee2b7f3777.png)
 
 ### I have my data package, now what?
+- Make sure you have [NodeJS](https://nodejs.org/en/) installed
 - Once you have your data package, extract it and make sure you have the messages folder inside.
 - Open a Command Prompt/Terminal in this projects directory.
 - Run `npm install` and wait for it to finish.
