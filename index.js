@@ -33,7 +33,7 @@ async function run() {
 
          const recipients = (data.recipients ?? []).filter(r => r !== config.userid);
          if (recipients.length) {
-            const res = await fetch('https://canary.discordapp.com/api/v6/users/@me/channels', {
+            const res = await fetch('https://discord.com/api/v9/users/@me/channels', {
                method: 'POST',
                body: JSON.stringify({ recipients }),
                headers: {
