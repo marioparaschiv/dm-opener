@@ -22,7 +22,7 @@
 ### How do i use it?
 
 First, you'll need your data package. You can get this by going to Settings > Privacy & Safety and clicking the Request Data button at the bottom.
-<br /><br />![image](./github/images/picture.png)
+<br /><br />![image](https://pomf.invoked.me/lbzhkFW.png)
 
 ### I have my data package, now what?
 
