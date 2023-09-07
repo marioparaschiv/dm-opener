@@ -9,9 +9,6 @@
   <a href="https://github.com/localip/dm-opener/stargazers">
     <img src="https://img.shields.io/github/stars/localip/dm-opener?style=flat" />
   </a>
-  <a href="https://discord.gg/HQ5N7Rcajc">
-    <img src="https://img.shields.io/discord/887015827134632057" />
-  </a>
 </div>
 
 ---
