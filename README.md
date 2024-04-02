@@ -1,13 +1,13 @@
 <div align="center">
   <h3>DM Opener</h3>
-  <a href="https://www.codefactor.io/repository/github/localip/dm-opener">
-    <img src="https://www.codefactor.io/repository/github/localip/dm-opener/badge" />
+  <a href="https://www.codefactor.io/repository/github/marioparaschiv/dm-opener">
+    <img src="https://www.codefactor.io/repository/github/marioparaschiv/dm-opener/badge" />
   </a>
-  <a href="https://github.com/localip/dm-opener/issues">
-    <img src="https://img.shields.io/github/issues/localip/dm-opener?style=flat" />
+  <a href="https://github.com/marioparaschiv/dm-opener/issues">
+    <img src="https://img.shields.io/github/issues/marioparaschiv/dm-opener?style=flat" />
   </a>
-  <a href="https://github.com/localip/dm-opener/stargazers">
-    <img src="https://img.shields.io/github/stars/localip/dm-opener?style=flat" />
+  <a href="https://github.com/marioparaschiv/dm-opener/stargazers">
+    <img src="https://img.shields.io/github/stars/marioparaschiv/dm-opener?style=flat" />
   </a>
 </div>
 
